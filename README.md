@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sujan Kim
+# 👋 Hi, I'm Sujan
 
 🚀 **Full-Stack Developer in Progress | Computer Engineering **
 
